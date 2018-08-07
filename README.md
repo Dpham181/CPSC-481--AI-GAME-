@@ -1,12 +1,11 @@
-# CPSC-481--AI-GAME-
+# CPSC 481 Project
 
+Bot name: Za Warudo
 
-Ai Cap'n is a Java based game API made using GTGE. It has been developed first and foremost to make it easy to "plug in" bots into a game. This allows developers to concentrate on the logic of their bots rather than other features of a game. This project is currently used for academic purposes.
+Description:
+  Ai Cap’n is a video game project where a boat character sails to its destination on an ocean map while battling other boats along the way and avoiding any hazards without any player input. In this project, our team will program our own boat against others teams to see whose boat is the last one standing.  The program that helps our boat act on it own involves search algorithm such as breadth first search, depth first search, best first search or more. 
 
-To see a more in depth discussion of how you can use the API, please see the Developer's Manual.
+Members:
 
-This API was developed by Solomon See and Paul Inventado, faculty members of the College of Computer Studies at  De La Salle University Manila, Philippines.
-
-Much work has to be done especially on game art and game design. People who are gifted with good artisitic skills or ideas on how to improve the system may send concept art or suggestions directly to paul.inventado@delasalle.ph. 
-
-See you around land lubbers!
+1. Danh Pham
+2. Steven Kha
